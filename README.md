@@ -13,8 +13,8 @@
 ### 3. PIP (Automatically installed with python on Windows.)
 #
 ## How to install?
-### 1. py -m pip install colorama bs4 requests
-### (If not working then use "python -m pip install colorama bs4 requests")
+### 1. py -m pip install colorama bs4 requests psutil
+### (If not working then use "python -m pip install psutil colorama bs4 requests")
 ### 2. Be in the same folder as EASYMONEY.py and run "py EASYMONEY.py" or "python EASYMONEY.py".
 #
 ## Disclaimer
